@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TastShopt", "TastShopt\TastShopt.csproj", "{32D76A9C-6EC5-40CC-AD08-1CA41D18E6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShopt_Utility", "TestShopt_Utility\TestShopt_Utility.csproj", "{97988513-C6F0-467D-9C93-7F90C0A7C571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D76A9C-6EC5-40CC-AD08-1CA41D18E6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D76A9C-6EC5-40CC-AD08-1CA41D18E6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D76A9C-6EC5-40CC-AD08-1CA41D18E6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D76A9C-6EC5-40CC-AD08-1CA41D18E6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97988513-C6F0-467D-9C93-7F90C0A7C571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97988513-C6F0-467D-9C93-7F90C0A7C571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97988513-C6F0-467D-9C93-7F90C0A7C571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97988513-C6F0-467D-9C93-7F90C0A7C571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F931780C-8EBA-4BD0-8D78-984C8F33D649}
+	EndGlobalSection
+EndGlobal
